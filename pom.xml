@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.akshat</groupId>
-	<artifactId>springbootrest</artifactId>
+	<artifactId>springbootapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springbootrest</name>
+	<name>springbootapp</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
